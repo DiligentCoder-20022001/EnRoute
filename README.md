@@ -14,3 +14,7 @@ https://github.com/DiligentCoder-20022001/EnRoute/blob/main/app/src/main/java/co
 2. Google maps API 
 3. Java
 4. XML
+
+## Android version 
+
+The appp runs on any android version greater than 6.0
