@@ -13,3 +13,4 @@ https://github.com/DiligentCoder-20022001/EnRoute/blob/main/app/src/main/java/co
 1. Android studio 
 2. Google maps API 
 3. Java
+4. XML
